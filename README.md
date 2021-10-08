@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github.com/IshitaBelwal/IshitaBelwal/blob/main/Header.png" alt="banner that says Ishita Belwal a Data Scientist">
 <!--
 **IshitaBelwal/IshitaBelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
