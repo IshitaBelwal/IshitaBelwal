@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/IshitaBelwal/IshitaBelwal/blob/main/Header.png" align="center" style="width: 100%" alt="banner that says Ishita Belwal a Data Scientist"/>
+<img src="https://github.com/IshitaBelwal/IshitaBelwal/blob/main/Header.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -73,21 +73,19 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IshitaBelwal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IshitaBelwal&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaBelwal&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaBelwal&hide_border=true&layout=compact&theme=radical" align="left" />  
 
 <br/>  
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
