@@ -39,11 +39,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 
 
@@ -75,7 +70,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IshitaBelwal&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaBelwal&hide_border=true&layout=compact&theme=radical" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaBelwal&hide_border=true&layout=compact&theme=radical" align="center" />  
 
 <br/>  
 
