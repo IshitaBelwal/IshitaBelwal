@@ -1,4 +1,4 @@
-<img src="https://github.com/IshitaBelwal/IshitaBelwal/blob/main/Header.png" alt="banner that says Ishita Belwal a Data Scientist">
+<img src="https://github.com/IshitaBelwal/IshitaBelwal/blob/main/Header.png" alt="banner that says Ishita Belwal a Data Scientist" length=1500 width=500>
 <!--
 **IshitaBelwal/IshitaBelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
