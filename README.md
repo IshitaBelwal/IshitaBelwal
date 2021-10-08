@@ -33,8 +33,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
@@ -68,9 +67,11 @@
 
 
 ## Github Stats  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshitaBelwal&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IshitaBelwal&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" /></div>  
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaBelwal&hide_border=true&layout=compact&theme=radical" align="center" />  
 
