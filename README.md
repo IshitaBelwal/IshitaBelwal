@@ -68,9 +68,9 @@
 
 ## Github Stats  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshitaBelwal&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IshitaBelwal&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</div>
 <br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IshitaBelwal&show_icons=true&count_private=true&hide_border=false&theme=radical" align="left" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IshitaBelwal&show_icons=true&count_private=true&hide_border=false&theme=radical" align="center" /></div>  
  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaBelwal&hide_border=false&layout=compact&theme=radical" align="center" /></div>  
 
