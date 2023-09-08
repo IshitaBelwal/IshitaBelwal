@@ -13,7 +13,8 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
+
+### [RESUME](https://drive.google.com/drive/u/0/folders/1OURx29b1hQyGsopcRo8sSSKzv81Ik8Zl)
 
 <br/>  
 
