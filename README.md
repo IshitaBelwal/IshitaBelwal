@@ -14,7 +14,8 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
-### [RESUME](https://drive.google.com/drive/u/0/folders/1OURx29b1hQyGsopcRo8sSSKzv81Ik8Zl)
+### [My Resume](https://drive.google.com/file/d/15Imubu10K51IQwAG48da6WRzJGrO_8g_/view?usp=drive_link)
+### [My LinkedIn](https://www.linkedin.com/in/ishita-belwal-840663113/)
 
 <br/>  
 
