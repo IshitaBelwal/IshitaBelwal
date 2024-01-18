@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ishita, a pre-final year B.Tech. undergrad majoring in Computer science and specialising in Data Science and Analytics.</div>  
+### <div align="center">I'm Ishita, a B.Tech. graduate with a major in Computer Science and a specialization in Data Science and Analytics.</div>  
   
 
 - 🌱 Constantly learning and journeying my way through data everyday.  
